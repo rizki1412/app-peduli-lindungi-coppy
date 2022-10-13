@@ -26,7 +26,7 @@ export default HomeScreen = ({ navigation }) => {
       <View style={styles.container}>
         <Image source={LogoUser} style={styles.imgSize} />
         <Text style={styles.hi}>Hi, </Text>
-        <Text style={styles.sata}>Sata Lesmana</Text>
+        <Text style={styles.sata}>Muhammad Rizki</Text>
         <Image source={LogoLonceng} style={styles.imgSize2} />
       </View>
       <View>
